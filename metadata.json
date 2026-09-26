@@ -1,0 +1,6 @@
+{
+  "name": "Laya Quant XAUUSD | Automated Algorithmic Gold Trading & Backtester",
+  "description": "Institutional-grade automated trading terminal for XAUUSD (Gold) powered by Laya AI fine-tuning, PineScript v6 RSI Bollinger Bands scalping engine, Bybit market data, interactive charting, zero-lookahead backtesting, and full trade journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
